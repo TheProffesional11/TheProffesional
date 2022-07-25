@@ -12,5 +12,90 @@ body {
     color: #edf0f1;
     text-decoration: none;
     background-color: rgb(24, 22, 22);
+}
 
+.titleOR {
+    margin-top: 10px;
+    margin-left: 500px;
+    margin-bottom: 30px;
+}
+.drive_train_intake_container {
+    display: flex;
+}
+
+.deposit_cap_container {
+    display: flex;
+}
+.drive_train_img {
+    float: left;
+    height: 395px;
+    width: 474px;
+    margin-right: 5px;
+}
+
+.drive_train_container {
+    border: 2px solid white;
+    height: 400px;
+    width: 800px;
+    margin-right: 10px;
+}
+
+.intake_img {
+    clear: left;
+    float: left;
+    height: 395px;
+    width: 474px;
+    margin-right: 5px;
+}
+
+.intake_container {
+    border: 2px solid white;
+    height: 400px;
+    width: 800px;
+}
+
+.deposit_img {
+    clear: left;
+    float: left;
+    height: 395px;
+    width: 474px;
+    margin-right: 5px;
+}
+
+.deposit_container {
+    border: 2px solid white;
+    height: 400px;
+    width: 800px;
+    margin-top: 10px;
+    margin-right: 10px;
+}   
+
+.cap_img {
+    clear: left;
+    float: left;
+    height: 395px;
+    width: 474px;
+    margin-right: 5px;
+}
+
+.cap_container {
+    border: 2px solid white;
+    height: 400px;
+    width: 850px;
+    margin-top: 10px;
+}
+
+.ducks_img {
+    clear: left;
+    float: left;
+    height: 395px;
+    width: 474px;
+    margin-right: 5px;
+}
+
+.ducks_container {
+    border: 2px solid white;
+    height: 400px;
+    width: 800px;
+    margin-top: 10px;
 }
